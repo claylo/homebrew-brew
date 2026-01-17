@@ -5,8 +5,8 @@
 class GitPm < Formula
   desc "Smart wrapper for gh cli that validates conventional commits, creates prs, waits"
   homepage "https://github.com/claylo/git-pm"
-  url "https://github.com/claylo/git-pm/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "c2f802bd869ef2354f0f231295babf5870798ff0cc8df5a30f3c09c425d64199"
+  url "https://github.com/claylo/git-pm/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "8f9c7096c81aee090c7369bdfc92b2ae5ebb6ce53f1954316840151a6a5e65e1"
   license "MIT"
 
   def install
